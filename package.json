@@ -1,0 +1,28 @@
+{
+  "name": "volvo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha-tesults-reporter": "^1.2.0",
+    "wdio-tesults-service": "^1.2.1"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^8.6.2",
+    "@wdio/local-runner": "^8.6.2",
+    "@wdio/mocha-framework": "^8.6.1",
+    "@wdio/selenium-standalone-service": "^8.6.2",
+    "@wdio/spec-reporter": "^8.4.0",
+    "chromedriver": "^111.0.0",
+    "wdio-chromedriver-service": "^8.1.1",
+    "wdio-image-comparison-service": "^5.0.2"
+  }
+}

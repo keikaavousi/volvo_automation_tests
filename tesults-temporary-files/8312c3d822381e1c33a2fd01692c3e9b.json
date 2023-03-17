@@ -1,0 +1,1 @@
+[{"name":"should open car's detail page","suite":"Car detail's link","result":"pass","start":1679059022199,"end":1679059034504,"duration":12305,"_type":"test","params":{"Device/Browser":"chrome"},"_Device/Browser Version":"111.0.5563.64"}]

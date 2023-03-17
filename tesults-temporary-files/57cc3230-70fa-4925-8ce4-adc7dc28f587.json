@@ -1,0 +1,1 @@
+[{"name":"should save full page screenshot","suite":"Regression Test - save screenshot","result":"pass","start":1679058816313,"end":1679058839024,"duration":22711,"_type":"test","params":{"Device/Browser":"firefox"},"_Device/Browser Version":"108.0.1"}]

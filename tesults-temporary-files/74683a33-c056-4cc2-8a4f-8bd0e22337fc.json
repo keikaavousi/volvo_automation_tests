@@ -1,0 +1,1 @@
+[{"name":"should start story vidoe by clicking button","suite":"Landing page","result":"pass","start":1679058743469,"end":1679058747946,"duration":4477,"_type":"test","params":{"Device/Browser":"firefox"},"_Device/Browser Version":"108.0.1"}]

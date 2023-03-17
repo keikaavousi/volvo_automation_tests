@@ -1,0 +1,1 @@
+[{"name":"should compare successful with a baseline","suite":"Regression Test - compare screenshots","result":"pass","start":1679058861980,"end":1679058895298,"duration":33318,"_type":"test","params":{"Device/Browser":"firefox"},"_Device/Browser Version":"108.0.1"}]

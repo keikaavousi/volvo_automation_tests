@@ -1,0 +1,1 @@
+[{"name":"should open safety innovation page","suite":"Landing page","result":"pass","start":1679058767770,"end":1679058788095,"duration":20325,"_type":"test","params":{"Device/Browser":"chrome"},"_Device/Browser Version":"111.0.5563.64"}]

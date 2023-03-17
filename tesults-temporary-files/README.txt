@@ -1,0 +1,1 @@
+This directory is created by wdio-tesults-service and can be safely deleted. The directory will be automatically generated again when required.
